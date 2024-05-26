@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Trigger Bug",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "src/intentional_bug.py"
+        }
+    ]
+}

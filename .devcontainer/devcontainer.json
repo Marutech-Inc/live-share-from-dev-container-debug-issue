@@ -1,0 +1,8 @@
+{
+  "name": "live-share-issue-4869",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
+  "runArgs": [
+    "--name",
+    "live-share-issue-4869"
+  ]
+}
